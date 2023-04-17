@@ -11,3 +11,8 @@ Hence why I start this wonderful journey of programming.
 
 [a computer setup] (https://unsplash.com/photos/EJMTKCZ00I0)
 
+Programming curiosity started some time last year. So far I have learnt a couple of things namely:
+ - HTML
+ - CSS
+ - Jave script
+ - A bit of swift
