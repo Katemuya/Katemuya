@@ -8,3 +8,5 @@ My adventurous side brought me to Germany at the age of 19.
 I was still very naive but one must say brave.
 11 years later I am still open to learning and growing. 
 Hence why I start this wonderful journey of programming.
+
+[a woman sitting on a cliff] (https://unsplash.com/photos/QHeAAc3y76Y)
