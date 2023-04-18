@@ -1,3 +1,6 @@
+![header](https://github.com/Katemuya/Katemuya/blob/main/header.png)
+
+
 # The beginning of it all
 Welcome to ny first readme file. 
 It is bound to be mediocre but bear with me for now. 
@@ -9,10 +12,10 @@ I was still very naive but one must say brave.
 11 years later I am still open to learning and growing. 
 Hence why I start this wonderful journey of programming.
 
-[a computer setup] (https://unsplash.com/photos/EJMTKCZ00I0)
+![a computer setup](https://source.unsplash.com/random/900x500/?computer,setup)
 
 Programming curiosity started some time last year. So far I have learnt a couple of things namely:
- - HTML
+ - HTML 
  - CSS
  - Jave script
  - A bit of swift
